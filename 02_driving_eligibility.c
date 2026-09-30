@@ -4,11 +4,11 @@ int main() {
     printf("enter age :");
     scanf("%d", &age);
 
-    if(age>=18) {
-        printf("they can drive \n");
+    if(age >= 18) {
+        printf("they can drive.\n");
     }
     else {
-        printf("they can't" );
+        printf("they cannot drive.\n" );
     }
     return 0;
 }
