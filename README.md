@@ -12,7 +12,7 @@ Practice programs I wrote while learning C programming.
 
 ## How to run 
 ```
-gcc filesname.c -o filename
+gcc filename.c -o filename
 ./filename
 ```
 
